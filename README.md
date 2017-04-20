@@ -5,10 +5,13 @@ Converted data from Inaugural committee donations file: http://docquery.fec.gov/
 Adding fields as I import and clean them.
 
 Fields added:
+- document page
 - transaction id
+- entity type
 - name/org
 - donation
 - month
+- day
 - year
 - notes
 - state
@@ -17,4 +20,3 @@ Fields needed:
 - mailing address
 - city
 - zip code
-- day
