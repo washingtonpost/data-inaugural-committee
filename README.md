@@ -15,8 +15,6 @@ Fields added:
 - year
 - notes
 - state
-
-Fields needed:
 - mailing address
 - city
 - zip code
